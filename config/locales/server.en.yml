@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    discourse_multisite_enabled: "Enable discourse_multisite plugin"
+    discourse_multisite_allowed_hostnames: "List of DN discourse should be accessible on"

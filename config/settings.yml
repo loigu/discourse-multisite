@@ -1,0 +1,8 @@
+plugins:
+  discourse_multisite_enabled:
+    default: true
+    client: true
+  discourse_multisite_allowed_hostnames:
+    default: ''
+    client: true
+    type: list
